@@ -5,3 +5,9 @@ https://github.com/BurnySc2/python-sc2
 
 
 https://sc2ai.net/
+
+
+
+Notes about the API library
+-filtering off units(probably same with structures) will give a empty list on failure
+-
